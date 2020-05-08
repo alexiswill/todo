@@ -1,0 +1,11 @@
+.jumbotron{
+    background: purple;
+    color: cyan;
+    text-align: center;
+    padding: 10px;
+}
+
+.jumbotron a {
+    color: royalblue;
+    text-decoration: none;
+}
